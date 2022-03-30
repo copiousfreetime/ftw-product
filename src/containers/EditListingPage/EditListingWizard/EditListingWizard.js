@@ -27,14 +27,14 @@ import {
 } from '../../../components';
 
 // Import modules from this directory
-import EditListingWizardTab, { DETAILS, DELIVERY, PRICING, PHOTOS } from './EditListingWizardTab';
+import EditListingWizardTab, { DETAILS, PRICING, PHOTOS } from './EditListingWizardTab';
 import css from './EditListingWizard.module.css';
 
 // You can reorder these panels.
 // Note 1: You need to change save button translations for new listing flow
 // Note 2: Ensure that draft listing is created after the first panel
 // and listing publishing happens after last panel.
-export const TABS = [DETAILS, PRICING, DELIVERY, PHOTOS];
+export const TABS = [DETAILS, PRICING, PHOTOS];
 
 // Tabs are horizontal in small screens
 const MAX_HORIZONTAL_NAV_SCREEN_WIDTH = 1023;
