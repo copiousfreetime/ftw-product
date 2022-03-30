@@ -1,8 +1,8 @@
 {
-  "name": "Sharetribe Flex Template Demo",
-  "description": "Sharetribe Flex Template Demo - Sneakertime!",
+  "name": "Copious Free Time Sharetribe Flex Template Demo",
+  "description": "Testing Sharetribe Flex Template Demo - Sneakertime!",
   "keywords": ["node", "react"],
-  "repository": "https://github.com/sharetribe/ftw-product/",
+  "repository": "https://github.com/copiousfreetime/ftw-product/",
   "env": {
     "REACT_APP_MAPBOX_ACCESS_TOKEN": {
       "description": "See: Integrating to map providers documentation https://www.sharetribe.com/docs/ftw-search/how-to-set-up-mapbox-for-ftw/"
